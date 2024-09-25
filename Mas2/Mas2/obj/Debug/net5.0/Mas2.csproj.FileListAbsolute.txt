@@ -1,0 +1,15 @@
+E:\Study\VS 2022\Mas2\Mas2\bin\Debug\net5.0\Mas2.exe
+E:\Study\VS 2022\Mas2\Mas2\bin\Debug\net5.0\Mas2.deps.json
+E:\Study\VS 2022\Mas2\Mas2\bin\Debug\net5.0\Mas2.runtimeconfig.json
+E:\Study\VS 2022\Mas2\Mas2\bin\Debug\net5.0\Mas2.runtimeconfig.dev.json
+E:\Study\VS 2022\Mas2\Mas2\bin\Debug\net5.0\Mas2.dll
+E:\Study\VS 2022\Mas2\Mas2\bin\Debug\net5.0\Mas2.pdb
+E:\Study\VS 2022\Mas2\Mas2\obj\Debug\net5.0\Mas2.GeneratedMSBuildEditorConfig.editorconfig
+E:\Study\VS 2022\Mas2\Mas2\obj\Debug\net5.0\Mas2.AssemblyInfoInputs.cache
+E:\Study\VS 2022\Mas2\Mas2\obj\Debug\net5.0\Mas2.AssemblyInfo.cs
+E:\Study\VS 2022\Mas2\Mas2\obj\Debug\net5.0\Mas2.csproj.CoreCompileInputs.cache
+E:\Study\VS 2022\Mas2\Mas2\obj\Debug\net5.0\Mas2.dll
+E:\Study\VS 2022\Mas2\Mas2\obj\Debug\net5.0\refint\Mas2.dll
+E:\Study\VS 2022\Mas2\Mas2\obj\Debug\net5.0\Mas2.pdb
+E:\Study\VS 2022\Mas2\Mas2\obj\Debug\net5.0\Mas2.genruntimeconfig.cache
+E:\Study\VS 2022\Mas2\Mas2\obj\Debug\net5.0\ref\Mas2.dll
